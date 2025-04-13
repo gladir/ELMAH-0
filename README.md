@@ -1,7 +1,7 @@
 # ELMAH-0
 Clone de ELMAH en Pascal (Turbo Pascal ou Free Pascal)
 
-Voici la liste des différents fichiers de bibliotèques proposés par ELMAH-0 :
+Voici la liste des différents fichiers de la bibliotèque proposée par ELMAH-0 :
 
 <table>
   <tr>
